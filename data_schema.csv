@@ -1,0 +1,16 @@
+Column Name,Description
+age,Numeric variable representing the age of the individual
+workclass,Categorical variable indicating the type of workclass
+fnlwgt,Numeric variable representing the final weight
+education,Categorical variable representing the highest level of education achieved
+education-num,Numeric variable representing the highest level of education in numerical form
+marital-status,Categorical variable representing the marital status of the individual
+occupation,Categorical variable representing the occupation of the individual
+relationship,Categorical variable representing the relationship status of the individual
+race,Categorical variable representing the race of the individual
+sex,Categorical variable representing the gender of the individual
+capital-gain,Numeric variable representing the capital gains of the individual
+capital-loss,Numeric variable representing the capital losses of the individual
+hours-per-week,Numeric variable representing the number of hours worked per week
+native-country,Categorical variable representing the native country of the individual
+Income,"Categorical variable indicating whether the individual's income is above or below $50,000 per year"
